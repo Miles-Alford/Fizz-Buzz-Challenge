@@ -1,0 +1,7 @@
+C:\Users\malford\source\repos\DevChallenges\DevChallenges\bin\Debug\DevChallenges.exe.config
+C:\Users\malford\source\repos\DevChallenges\DevChallenges\bin\Debug\DevChallenges.exe
+C:\Users\malford\source\repos\DevChallenges\DevChallenges\bin\Debug\DevChallenges.pdb
+C:\Users\malford\source\repos\DevChallenges\DevChallenges\obj\Debug\DevChallenges.csprojAssemblyReference.cache
+C:\Users\malford\source\repos\DevChallenges\DevChallenges\obj\Debug\DevChallenges.csproj.CoreCompileInputs.cache
+C:\Users\malford\source\repos\DevChallenges\DevChallenges\obj\Debug\DevChallenges.exe
+C:\Users\malford\source\repos\DevChallenges\DevChallenges\obj\Debug\DevChallenges.pdb
